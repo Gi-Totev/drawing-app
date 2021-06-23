@@ -1,0 +1,23 @@
+const COLORS = [
+  "Black",
+  "White",
+  "DarkGray",
+  "Gray",
+  "DarkRed",
+  "Brown",
+  "Red",
+  "Pink",
+  "Orange",
+  "Gold",
+  "Yellow",
+  "#ffffe0",
+  "Green",
+  "Lime",
+  "rgb(0,162,232)",
+  "rgb(153,217,234)",
+  "Indigo",
+  "rgb(112,146,190)",
+  "Purple",
+  "rgb(200,191,231)",
+];
+export default COLORS;
